@@ -307,7 +307,6 @@ def main():
             # Ensure stream is started
             start_stream()
             with lock:
-                # Clear any previous state to ensure clean start
                 frames = []
                 globals()['frames'] = frames
                 globals()['recording_flag'] = True
