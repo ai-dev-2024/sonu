@@ -8,7 +8,7 @@
 
 [![Video Formats](https://img.shields.io/badge/video-MP4%20%7C%20H.265%20%7C%20VP9-orange)](#-showcase)
 [![Screenshots](https://img.shields.io/badge/screenshots-17-blue)](#-showcase)
-[![Version](https://img.shields.io/badge/version-3.5.4-blue.svg)](https://github.com/1111MK1111/sonu)
+[![Version](https://img.shields.io/badge/version-3.5.4-blue.svg)](https://github.com/ai-dev-2024/sonu)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -227,7 +227,7 @@ SONU is built with cutting-edge AI-assisted development tools. To continue deliv
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/1111MK1111/sonu.git
+   git clone https://github.com/ai-dev-2024/sonu.git
    cd sonu
    ```
 
@@ -682,8 +682,8 @@ Your support, whether through donations, stars, feedback, or sharing, makes a re
 
 For issues, questions, or feature requests:
 
-- **GitHub Issues**: [Create an issue](https://github.com/1111MK1111/sonu/issues)
-- **GitHub Profile**: [@1111MK1111](https://github.com/1111MK1111)
+- **GitHub Issues**: [Create an issue](https://github.com/ai-dev-2024/sonu/issues)
+- **GitHub Profile**: [@ai-dev-2024](https://github.com/ai-dev-2024)
 
 ---
 
