@@ -160,9 +160,9 @@ Choose AI dictation style presets organized by category: *Personal*, *Work*, *Em
 
 | Platform | Download | Architecture |
 |:--------:|:--------:|:------------:|
-| <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> | **[Download Installer (.exe)](https://github.com/ai-dev-2024/sonu/releases/latest)** | x64 |
-| <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> | **[Download DMG](https://github.com/ai-dev-2024/sonu/releases/latest)** | Universal (Intel + Apple Silicon) |
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> | **[Download AppImage / .deb](https://github.com/ai-dev-2024/sonu/releases/latest)** | x64 |
+| <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> | **[Download Installer (.exe)](https://github.com/ai-dev-2024/sonu/releases/latest)** | x64, ARM64 |
+| <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> | **[Download DMG](https://github.com/ai-dev-2024/sonu/releases/latest)** | Intel (x64) + Apple Silicon (ARM64) |
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> | **[Download AppImage / .deb / .rpm](https://github.com/ai-dev-2024/sonu/releases/latest)** | x64 |
 
 [![Download Latest](https://img.shields.io/github/v/release/ai-dev-2024/sonu?style=for-the-badge&label=Download%20Latest&color=6366f1)](https://github.com/ai-dev-2024/sonu/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/ai-dev-2024/sonu/total?style=for-the-badge&label=Downloads&color=22c55e)](https://github.com/ai-dev-2024/sonu/releases)
