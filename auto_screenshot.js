@@ -386,7 +386,7 @@ async function uploadToGitHub() {
     if (hasVideo) {
       log(`🎬 Video: ${path.basename(videoPath)}`, '🎬');
     }
-    log(`🔗 View at: https://github.com/1111MK1111/sonu/tree/main/screenshots`, '🔗');
+    log(`🔗 View at: https://github.com/ai-dev-2024/sonu/tree/main/screenshots`, '🔗');
 
   } catch (error) {
     log(`Error uploading to GitHub: ${error.message}`, '❌');

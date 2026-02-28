@@ -14,7 +14,7 @@ const { app } = require('electron');
 const APP_INFO = {
   NAME: 'Sonu Voice Typing',
   VERSION: require('../../package.json').version,
-  REPOSITORY: 'https://github.com/1111MK1111/sonu',
+  REPOSITORY: 'https://github.com/ai-dev-2024/sonu',
   WEBSITE: 'https://sonu.app'
 };
 
@@ -234,7 +234,7 @@ const API_ENDPOINTS = {
     MODELS: '/models'
   },
   GITHUB: {
-    RELEASES: 'https://api.github.com/repos/1111MK1111/sonu/releases/latest'
+    RELEASES: 'https://api.github.com/repos/ai-dev-2024/sonu/releases/latest'
   }
 };
 

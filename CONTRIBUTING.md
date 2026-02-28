@@ -11,7 +11,7 @@ Thank you for your interest in contributing to SONU! This project was built by a
 ## Development Setup
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/1111MK1111/sonu.git`
+2. Clone your fork: `git clone https://github.com/ai-dev-2024/sonu.git`
 3. Install dependencies: `npm install`
 4. Install Python dependencies: `pip install faster-whisper pyaudio keyboard`
 5. Create a branch: `git checkout -b feature/your-feature-name`

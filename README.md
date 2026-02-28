@@ -32,6 +32,18 @@
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="assets/showcase/01_home.png" alt="SONU Home Screen" width="680" />
+</p>
+
+<p align="center">
+  <em>SONU v2.2.0 — Clean, modern interface for offline voice typing</em>
+</p>
+
+---
+
 ## 💝 Support SONU
 
 **SONU is completely free and open source.** Your support helps us:
@@ -41,7 +53,7 @@
 - 🌍 Support more languages and platforms
 
 <p align="center">
-  <a href="https://github.com/sponsors/1111MK1111">
+  <a href="https://github.com/sponsors/ai-dev-2024">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github" alt="Sponsor on GitHub" />
   </a>
   <a href="https://www.buymeacoffee.com/sonu">
@@ -67,13 +79,13 @@
 
 | Platform | Download | Version |
 |----------|----------|---------|
-| **Windows** | [Download Installer](https://github.com/1111MK1111/sonu/releases/latest) | v3.7.0 |
-| **macOS** | [Download DMG](https://github.com/1111MK1111/sonu/releases/latest) | v2.2.0 |
-| **Linux** | [Download AppImage](https://github.com/1111MK1111/sonu/releases/latest) | v2.2.0 |
+| **Windows** | [Download Installer](https://github.com/ai-dev-2024/sonu/releases/latest) | v3.7.0 |
+| **macOS** | [Download DMG](https://github.com/ai-dev-2024/sonu/releases/latest) | v2.2.0 |
+| **Linux** | [Download AppImage](https://github.com/ai-dev-2024/sonu/releases/latest) | v2.2.0 |
 
 <p align="center">
-  <a href="https://github.com/1111MK1111/sonu/releases/latest">
-    <img src="https://img.shields.io/github/v/release/1111MK1111/sonu?style=for-the-badge&color=blue" alt="Latest Release" />
+  <a href="https://github.com/ai-dev-2024/sonu/releases/latest">
+    <img src="https://img.shields.io/github/v/release/ai-dev-2024/sonu?style=for-the-badge&color=blue" alt="Latest Release" />
   </a>
 </p>
 
@@ -216,8 +228,8 @@ The desktop app follows a modular architecture:
 **All testing is done in the cloud via GitHub Actions.** No local testing required!
 
 <p align="center">
-  <a href="https://github.com/1111MK1111/sonu/actions">
-    <img src="https://img.shields.io/github/workflow/status/1111MK1111/sonu/CI?style=for-the-badge" alt="CI Status" />
+  <a href="https://github.com/ai-dev-2024/sonu/actions">
+    <img src="https://img.shields.io/github/workflow/status/ai-dev-2024/sonu/CI?style=for-the-badge" alt="CI Status" />
   </a>
 </p>
 
@@ -307,7 +319,7 @@ SONU is developed and maintained with ❤️ by a small team. Your support makes
 ### Ways to Support
 
 <p align="center">
-  <a href="https://github.com/sponsors/1111MK1111">
+  <a href="https://github.com/sponsors/ai-dev-2024">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github" alt="GitHub Sponsors" />
   </a>
 </p>
@@ -486,8 +498,8 @@ MIT License - See [LICENSE](LICENSE) for details.
 </p>
 
 <p align="center">
-  <a href="https://github.com/1111MK1111/sonu">⭐ Star us on GitHub</a> •
-  <a href="https://github.com/sponsors/1111MK1111">💖 Sponsor</a> •
+  <a href="https://github.com/ai-dev-2024/sonu">⭐ Star us on GitHub</a> •
+  <a href="https://github.com/sponsors/ai-dev-2024">💖 Sponsor</a> •
   <a href="https://twitter.com/sonuvoice">🐦 Twitter</a>
 </p>
 

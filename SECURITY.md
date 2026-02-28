@@ -14,7 +14,7 @@ We provide security updates for the following versions:
 If you discover a security vulnerability, please follow these steps:
 
 1. **Do NOT** open a public issue
-2. Email security details to: [GitHub Security](https://github.com/1111MK1111/sonu/security/advisories/new)
+2. Email security details to: [GitHub Security](https://github.com/ai-dev-2024/sonu/security/advisories/new)
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce

@@ -5359,7 +5359,7 @@ app.whenReady().then(() => {
 
   ipcMain.handle('app:check-updates', async () => {
     // Open GitHub releases page for manual update check
-    shell.openExternal('https://github.com/1111MK1111/sonu/releases');
+    shell.openExternal('https://github.com/ai-dev-2024/sonu/releases');
     return { hasUpdate: false, checked: true };
   });
 

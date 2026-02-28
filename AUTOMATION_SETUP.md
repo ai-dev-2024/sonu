@@ -177,9 +177,9 @@ git push origin main
 
 ## 🔗 Links
 
-- **Repository**: https://github.com/1111MK1111/sonu
-- **Screenshots**: https://github.com/1111MK1111/sonu/tree/main/screenshots
-- **Recordings**: https://github.com/1111MK1111/sonu/tree/main/recordings
+- **Repository**: https://github.com/ai-dev-2024/sonu
+- **Screenshots**: https://github.com/ai-dev-2024/sonu/tree/main/screenshots
+- **Recordings**: https://github.com/ai-dev-2024/sonu/tree/main/recordings
 
 ---
 

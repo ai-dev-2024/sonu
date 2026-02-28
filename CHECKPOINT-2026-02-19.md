@@ -204,7 +204,7 @@ This checkpoint represents the work of:
 ## 📞 Support
 
 For issues related to this checkpoint:
-1. Check [GitHub Issues](https://github.com/1111MK1111/sonu/issues)
+1. Check [GitHub Issues](https://github.com/ai-dev-2024/sonu/issues)
 2. Review [Documentation](docs/)
 3. Contact: support@sonu.app
 
@@ -212,10 +212,10 @@ For issues related to this checkpoint:
 
 ## 🔗 Links
 
-- **Repository**: https://github.com/1111MK1111/sonu
-- **Actions**: https://github.com/1111MK1111/sonu/actions
-- **Releases**: https://github.com/1111MK1111/sonu/releases
-- **Sponsor**: https://github.com/sponsors/1111MK1111
+- **Repository**: https://github.com/ai-dev-2024/sonu
+- **Actions**: https://github.com/ai-dev-2024/sonu/actions
+- **Releases**: https://github.com/ai-dev-2024/sonu/releases
+- **Sponsor**: https://github.com/sponsors/ai-dev-2024
 
 ---
 

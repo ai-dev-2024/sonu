@@ -25,7 +25,7 @@ SONU is an offline voice typing application powered by OpenAI's Whisper AI. It w
 
 2. **Setup**:
    ```bash
-   git clone https://github.com/1111MK1111/sonu.git
+   git clone https://github.com/ai-dev-2024/sonu.git
    cd sonu/apps/desktop
    npm install
    pip install -r requirements.txt
@@ -304,4 +304,4 @@ See [CHANGELOG.md](../CHANGELOG.md) for detailed version history and updates.
 
 **Made with ❤️ for professionals who value privacy and efficiency**
 
-For the latest updates, visit [GitHub Repository](https://github.com/1111MK1111/sonu)
+For the latest updates, visit [GitHub Repository](https://github.com/ai-dev-2024/sonu)

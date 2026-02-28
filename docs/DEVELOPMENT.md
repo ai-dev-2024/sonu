@@ -26,7 +26,7 @@ This document provides comprehensive information for developers who want to cont
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/1111MK1111/sonu.git
+   git clone https://github.com/ai-dev-2024/sonu.git
    cd sonu
    ```
 

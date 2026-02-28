@@ -228,4 +228,4 @@ Supports 99 languages including:
 
 ---
 
-For help selecting the right model, visit our [Discussions](https://github.com/1111MK1111/sonu/discussions).
+For help selecting the right model, visit our [Discussions](https://github.com/ai-dev-2024/sonu/discussions).

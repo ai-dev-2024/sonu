@@ -339,7 +339,7 @@ async function uploadToGitHub() {
 
     console.log(`\n✅ Screenshots successfully uploaded to GitHub!`);
     console.log(`\n📸 View them at:`);
-    console.log(`   https://github.com/1111MK1111/sonu/tree/main/screenshots`);
+    console.log(`   https://github.com/ai-dev-2024/sonu/tree/main/screenshots`);
     console.log(`\n📄 They will appear in the README automatically.`);
 
   } catch (error) {
