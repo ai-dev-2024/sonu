@@ -8,7 +8,7 @@
 
 **Type at the speed of thought. Fully offline. Fully private.**
 
-[![Latest Release](https://img.shields.io/badge/Latest-v2.4.0-6366f1?style=for-the-badge)](https://github.com/ai-dev-2024/sonu/releases/latest)
+[![Latest Release](https://img.shields.io/badge/Latest-v2.5.0-6366f1?style=for-the-badge)](https://github.com/ai-dev-2024/sonu/releases/latest)
 [![CI](https://img.shields.io/github/actions/workflow/status/ai-dev-2024/sonu/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/ai-dev-2024/sonu/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/ai-dev-2024/sonu?style=for-the-badge&color=f59e0b)](https://github.com/ai-dev-2024/sonu)
@@ -121,7 +121,7 @@ Define shorthand codes that expand into full text blocks — perfect for emails,
 
 <div align="center">
 
-> **SONU v2.4.0** — Built with Tauri v2 (Rust + React). Lightweight, native, and fast.
+> **SONU v2.5.0** — Built with Tauri v2 (Rust + React). Lightweight, native, and fast.
 
 ### Appearance & responsiveness
 
