@@ -2,7 +2,7 @@
 
 ## Download
 
-Get the latest release for your platform from [GitHub Releases](https://github.com/ai-dev-2024/sonu/releases).
+Get the latest release for your platform from [GitHub Releases](https://github.com/muhib-karim/sonu/releases).
 
 | Platform | Format | File |
 |----------|--------|------|
@@ -37,14 +37,14 @@ sudo dpkg -i sonu_*.deb
 
 ## Why Unsigned?
 
-SONU is free and open-source. Code signing certificates cost $300+/year. Your security comes from transparent code at [github.com/ai-dev-2024/sonu](https://github.com/ai-dev-2024/sonu).
+SONU is free and open-source. Code signing certificates cost $300+/year. Your security comes from transparent code at [github.com/muhib-karim/sonu](https://github.com/muhib-karim/sonu).
 
 ## Building from Source
 
 **Prerequisites**: [Bun](https://bun.sh), [Rust toolchain](https://rustup.rs), platform-specific Tauri v2 dependencies.
 
 ```bash
-git clone https://github.com/ai-dev-2024/sonu.git
+git clone https://github.com/muhib-karim/sonu.git
 cd sonu/apps/tauri-v2
 bun install
 bun run tauri dev    # Development

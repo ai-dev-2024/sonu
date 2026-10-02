@@ -38,11 +38,11 @@ fn build_headers(provider: &PostProcessProvider, api_key: &str) -> Result<Header
     headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
     headers.insert(
         REFERER,
-        HeaderValue::from_static("https://github.com/ai-dev-2024/sonu"),
+        HeaderValue::from_static("https://github.com/muhib-karim/sonu"),
     );
     headers.insert(
         USER_AGENT,
-        HeaderValue::from_static("SONU/2.2 (+https://github.com/ai-dev-2024/sonu)"),
+        HeaderValue::from_static("SONU/2.2 (+https://github.com/muhib-karim/sonu)"),
     );
     headers.insert("X-Title", HeaderValue::from_static("SONU"));
 

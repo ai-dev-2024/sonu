@@ -22,7 +22,7 @@ We prioritize:
 ### Setup
 
 ```bash
-git clone https://github.com/ai-dev-2024/sonu.git
+git clone https://github.com/muhib-karim/sonu.git
 cd sonu/apps/tauri-v2
 bun install
 bun run tauri dev
@@ -61,12 +61,12 @@ See [AGENTS.md](AGENTS.md) for full development guidelines and build commands.
 
 ## 🐛 Reporting Issues
 
-Open issues on [GitHub](https://github.com/ai-dev-2024/sonu/issues).
+Open issues on [GitHub](https://github.com/muhib-karim/sonu/issues).
 Include: app version, OS, CPU/GPU, steps to reproduce, expected vs actual behavior.
 
 ## 💡 Features
 
-Start a [Discussion](https://github.com/ai-dev-2024/sonu/discussions) for feature ideas.
+Start a [Discussion](https://github.com/muhib-karim/sonu/discussions) for feature ideas.
 Search existing discussions first.
 
 ## 🔧 Making Changes
@@ -85,7 +85,7 @@ Search existing discussions first.
    ```
 
 4. Commit conventionally: `git commit -m "feat: add feature"`
-5. Push and open a PR against `ai-dev-2024/sonu:main`
+5. Push and open a PR against `muhib-karim/sonu:main`
 
 ### AI Assistance
 
@@ -100,7 +100,7 @@ AI-assisted PRs are welcome. Mention which tool was used in the PR description.
 ## 📞 Getting Help
 
 - [Discord](https://discord.com/invite/WVBeWsNXK4)
-- [GitHub Discussions](https://github.com/ai-dev-2024/sonu/discussions)
+- [GitHub Discussions](https://github.com/muhib-karim/sonu/discussions)
 
 ---
 
