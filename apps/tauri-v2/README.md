@@ -25,7 +25,7 @@ A modern, high-performance offline voice typing application built with Tauri v2,
 
 ```bash
 # Clone and navigate to the project
-git clone https://github.com/ai-dev-2024/sonu.git
+git clone https://github.com/muhib-karim/sonu.git
 cd sonu/apps/tauri-v2
 
 # Install dependencies (the Silero VAD model is already bundled in
@@ -157,8 +157,8 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/ai-dev-2024/sonu/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ai-dev-2024/sonu/discussions)
+- **Issues**: [GitHub Issues](https://github.com/muhib-karim/sonu/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/muhib-karim/sonu/discussions)
 - **Email**: support@sonu.app (if applicable)
 
 ---

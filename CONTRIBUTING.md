@@ -13,7 +13,7 @@ Thank you for your interest in contributing! SONU is built by a solo developer w
 ### Getting Started
 
 ```bash
-git clone https://github.com/ai-dev-2024/sonu.git
+git clone https://github.com/muhib-karim/sonu.git
 cd sonu/apps/tauri-v2
 bun install
 bun run tauri dev

@@ -49,7 +49,7 @@ This guide covers how to set up the development environment and build SONU from 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ai-dev-2024/sonu.git
+git clone https://github.com/muhib-karim/sonu.git
 cd sonu/apps/tauri-v2
 ```
 

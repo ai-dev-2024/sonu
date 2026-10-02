@@ -8,11 +8,11 @@
 
 **Type at the speed of thought. Fully offline. Fully private.**
 
-[![Latest Release](https://img.shields.io/badge/Latest-v2.3.0-6366f1?style=for-the-badge)](https://github.com/ai-dev-2024/sonu/releases/latest)
-[![CI](https://img.shields.io/github/actions/workflow/status/ai-dev-2024/sonu/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/ai-dev-2024/sonu/actions/workflows/ci.yml)
+[![Latest Release](https://img.shields.io/badge/Latest-v2.3.0-6366f1?style=for-the-badge)](https://github.com/muhib-karim/sonu/releases/latest)
+[![CI](https://img.shields.io/github/actions/workflow/status/muhib-karim/sonu/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/muhib-karim/sonu/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ai-dev-2024/sonu?style=for-the-badge&color=f59e0b)](https://github.com/ai-dev-2024/sonu)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0ea5e9?style=for-the-badge)](https://github.com/ai-dev-2024/sonu/releases)
+[![Stars](https://img.shields.io/github/stars/muhib-karim/sonu?style=for-the-badge&color=f59e0b)](https://github.com/muhib-karim/sonu)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0ea5e9?style=for-the-badge)](https://github.com/muhib-karim/sonu/releases)
 [![ZAI Community](https://img.shields.io/badge/Part%20of-ZAI%20Start--up%20Community-8b5cf6?style=for-the-badge)](https://startup.z.ai/)
 [![Ko-fi](https://img.shields.io/badge/☕_Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/ai_dev_2024)
 
@@ -200,12 +200,12 @@ Choose AI dictation style presets organized by category: _Personal_, _Work_, _Em
 
 |                                                 Platform                                                 |                                          Download                                          |            Architecture             |
 | :------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :---------------------------------: |
-| <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> |    **[Download Installer (.exe)](https://github.com/ai-dev-2024/sonu/releases/latest)**    |             x64, ARM64              |
-|   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />   |          **[Download DMG](https://github.com/ai-dev-2024/sonu/releases/latest)**           | Intel (x64) + Apple Silicon (ARM64) |
-|   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />   | **[Download AppImage / .deb / .rpm](https://github.com/ai-dev-2024/sonu/releases/latest)** |                 x64                 |
+| <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> |    **[Download Installer (.exe)](https://github.com/muhib-karim/sonu/releases/latest)**    |             x64, ARM64              |
+|   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />   |          **[Download DMG](https://github.com/muhib-karim/sonu/releases/latest)**           | Intel (x64) + Apple Silicon (ARM64) |
+|   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />   | **[Download AppImage / .deb / .rpm](https://github.com/muhib-karim/sonu/releases/latest)** |                 x64                 |
 
-[![Download Latest](https://img.shields.io/github/v/release/ai-dev-2024/sonu?style=for-the-badge&label=Download%20Latest&color=6366f1)](https://github.com/ai-dev-2024/sonu/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/ai-dev-2024/sonu/total?style=for-the-badge&label=Downloads&color=22c55e)](https://github.com/ai-dev-2024/sonu/releases)
+[![Download Latest](https://img.shields.io/github/v/release/muhib-karim/sonu?style=for-the-badge&label=Download%20Latest&color=6366f1)](https://github.com/muhib-karim/sonu/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/muhib-karim/sonu/total?style=for-the-badge&label=Downloads&color=22c55e)](https://github.com/muhib-karim/sonu/releases)
 
 </div>
 
@@ -214,7 +214,7 @@ Choose AI dictation style presets organized by category: _Personal_, _Work_, _Em
 <details>
 <summary><strong>Windows</strong></summary>
 
-1. Download the `.exe` installer from [Releases](https://github.com/ai-dev-2024/sonu/releases/latest)
+1. Download the `.exe` installer from [Releases](https://github.com/muhib-karim/sonu/releases/latest)
 2. Run the installer and follow the prompts
 3. Launch SONU from the Start Menu or system tray
 4. Press your hotkey (default: `Alt` on Windows, `Option+Space` on macOS, `Ctrl+Space` on Linux) and start speaking
@@ -224,7 +224,7 @@ Choose AI dictation style presets organized by category: _Personal_, _Work_, _Em
 <details>
 <summary><strong>macOS</strong></summary>
 
-1. Download the `.dmg` from [Releases](https://github.com/ai-dev-2024/sonu/releases/latest)
+1. Download the `.dmg` from [Releases](https://github.com/muhib-karim/sonu/releases/latest)
 2. Open the DMG and drag SONU to Applications
 3. Grant Accessibility permissions when prompted
 4. Press your hotkey and start speaking
@@ -234,7 +234,7 @@ Choose AI dictation style presets organized by category: _Personal_, _Work_, _Em
 <details>
 <summary><strong>Linux</strong></summary>
 
-1. Download `.AppImage` (portable) or `.deb` (Debian/Ubuntu) from [Releases](https://github.com/ai-dev-2024/sonu/releases/latest)
+1. Download `.AppImage` (portable) or `.deb` (Debian/Ubuntu) from [Releases](https://github.com/muhib-karim/sonu/releases/latest)
 2. For AppImage: `chmod +x SONU-*.AppImage && ./SONU-*.AppImage`
 3. For .deb: `sudo dpkg -i sonu_*.deb`
 4. Press your hotkey and start speaking
@@ -305,7 +305,7 @@ SONU/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ai-dev-2024/sonu.git
+git clone https://github.com/muhib-karim/sonu.git
 cd sonu/apps/tauri-v2
 
 # Install dependencies
@@ -436,7 +436,7 @@ See [AGENTS.md](AGENTS.md) for development guidelines and coding conventions.
 
 **Made with ❤️ for people who think faster than they type.**
 
-[⭐ Star on GitHub](https://github.com/ai-dev-2024/sonu) · [ Download](https://github.com/ai-dev-2024/sonu/releases/latest)
+[⭐ Star on GitHub](https://github.com/muhib-karim/sonu) · [ Download](https://github.com/muhib-karim/sonu/releases/latest)
 
 <sub>SONU is not affiliated with OpenAI. Whisper is a trademark of OpenAI.</sub>
 
